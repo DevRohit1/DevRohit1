@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevRohit1
+- 👋 Hi, I’m @DavRohit1
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning C/C++ , Java script , Tailwind , scss , css
 - 💞️ I’m looking to collaborate on web dev
